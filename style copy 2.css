@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Pacifico&display=swap');
+
+body{
+    background-color: #607274;
+}
+h1{
+    color: #FAEED1;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: "Pacifico", cursive;
+}
+h3{
+    color: #B2A59B;
+    margin-left: 15px;
+    font-family: "Pacifico", cursive;
+}
+.szoveg{
+    color: #B2A59B;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: "Bree Serif", serif;
+}
+div{
+    background-color: #FAEED1;
+    margin-left: 15px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 30px;
+    
+}
+a{
+    color: #FAEED1;
+    margin-left: 30px;
+}
